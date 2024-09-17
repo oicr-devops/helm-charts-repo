@@ -1,0 +1,91 @@
+apiVersion: v1
+entries:
+  clinical-mongo-backup:
+  - apiVersion: v2
+    appVersion: 1.18.0
+    created: "2024-09-17T18:00:58.299231599Z"
+    description: Backup clinical-mongo cluster
+    digest: ef05b2f9f64e0f34b3b4debc19ef296ecd674ddadaa1b7c7d591ee7061061f83
+    name: clinical-mongo-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/clinical-mongo-backup-0.3.0.tgz
+    version: 0.3.0
+  consul-backup:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-09-17T18:00:58.299748527Z"
+    description: Backup consul cluster
+    digest: f6e1ff37df7403acc9e12d6d1510896b4665ec995c5f62862cdbcb83bf0ee1f7
+    name: consul-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/consul-backup-0.2.0.tgz
+    version: 0.2.0
+  dac-mongo-backup:
+  - apiVersion: v2
+    appVersion: 1.18.0
+    created: "2024-09-17T18:00:58.300454369Z"
+    description: Backup dac-mongo cluster
+    digest: 38c557cc9e3e8cbafecb392b35b76690e5b5177b91c490dbdd589457e70513e0
+    name: dac-mongo-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/dac-mongo-backup-0.3.0.tgz
+    version: 0.3.0
+  etcd-backup:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-09-17T18:00:58.301025758Z"
+    description: Backup etcd cluster
+    digest: b9527d93b6e583adb36060c0cb46724a892137190312173ecaf542580c0a810b
+    name: etcd-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/etcd-backup-0.3.0.tgz
+    version: 0.3.0
+  kafka-connect:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-09-17T18:00:58.30170287Z"
+    description: Backup kafka topics
+    digest: 4b5624ce93f5194fdaf8f3a39986b41ec9ba7b707487bde507a596667c531da7
+    name: kafka-connect
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/kafka-connect-1.4.1.tgz
+    version: 1.4.1
+  lectern-backup:
+  - apiVersion: v2
+    appVersion: 1.18.0
+    created: "2024-09-17T18:00:58.302188018Z"
+    description: Backup lectern-mongo cluster
+    digest: 3a38395ff2d362ea1f4c7f48bb4223b748cf88a64a40c6d6c9992e6d9ec98c7a
+    name: lectern-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/lectern-backup-0.3.0.tgz
+    version: 0.3.0
+  psql-backup:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-09-17T18:00:58.302672976Z"
+    description: A Helm chart for Kubernetes
+    digest: b576534c9dcc90ab69f65125d41e1f6fbbd0eea80810b00a9aa4006586fc3d03
+    name: psql-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/psql-backup-0.1.7.tgz
+    version: 0.1.7
+  s3-files-backup:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-09-17T18:00:58.303214065Z"
+    description: Backup dac user files
+    digest: 93b252730454a8abb024c5c696b3c1309bae24dade877d830beddfd2dad3e936
+    name: s3-files-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/s3-files-backup-0.5.0.tgz
+    version: 0.5.0
+generated: "2024-09-17T18:00:58.298356914Z"
