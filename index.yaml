@@ -47,6 +47,16 @@ entries:
   kafka-connect:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2024-09-26T16:48:02.241815054Z"
+    description: Backup kafka topics
+    digest: 598eeea0c06e33f9e07f198129283a76ffd452e5d5c4eddcc83c7d85b06c4afa
+    name: kafka-connect
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/kafka-connect-1.5.0.tgz
+    version: 1.5.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-09-17T18:00:58.30170287Z"
     description: Backup kafka topics
     digest: 4b5624ce93f5194fdaf8f3a39986b41ec9ba7b707487bde507a596667c531da7
@@ -88,4 +98,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/s3-files-backup-0.5.0.tgz
     version: 0.5.0
-generated: "2024-09-17T18:00:58.298356914Z"
+generated: "2024-09-26T16:48:02.24099344Z"
