@@ -98,4 +98,15 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/s3-files-backup-0.5.0.tgz
     version: 0.5.0
-generated: "2024-09-26T16:48:02.24099344Z"
+  valkey-cluster:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-01-22T15:48:46.165740771Z"
+    description: A Helm chart for Kubernetes
+    digest: 642a906f5d796546c505bdb467bdcd83751119df04c9caa4abf02cb209d90c58
+    name: valkey-cluster
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/valkey-cluster-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-01-22T15:48:46.165308346Z"
