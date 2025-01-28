@@ -132,6 +132,16 @@ entries:
   vso-resources:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2025-01-28T23:23:05.719475624Z"
+    description: A Helm chart for Kubernetes
+    digest: f5d04826912623838984da0eb3cbb4953fa3cc4fd8c1223673ea321e87165313
+    name: vso-resources
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2025-01-28T19:41:31.52202095Z"
     description: A Helm chart for Kubernetes
     digest: 079bdabe5649f192a740d3e26328c718d52ad6160c3ee371be05cacc007f84ef
@@ -140,4 +150,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-28T19:41:31.521373119Z"
+generated: "2025-01-28T23:23:05.718778018Z"
