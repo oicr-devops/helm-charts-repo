@@ -36,6 +36,16 @@ entries:
   etcd-backup:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2025-03-18T20:06:53.906774985Z"
+    description: Backup etcd cluster
+    digest: b74ab06425ca5d46613d21058e9d0f418fedc5cb2b92d7cd5e75d6e01a4b84d9
+    name: etcd-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/etcd-backup-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2025-03-18T19:38:16.557092445Z"
     description: Backup etcd cluster
     digest: edff05c2beb67b6052d93f82621473767da4be5c44c09fdb7b2093c4abc0f5c2
@@ -180,4 +190,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-18T19:38:16.556165359Z"
+generated: "2025-03-18T20:06:53.905931838Z"
