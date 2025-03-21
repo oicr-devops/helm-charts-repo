@@ -14,6 +14,16 @@ entries:
   consul-backup:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2025-03-21T16:58:10.587088556Z"
+    description: Backup consul cluster
+    digest: 5d7b59e5eb81a0fd5c50a63bbb236d1b3f44f1de5a2d0a3ecb2288435e3af9c9
+    name: consul-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/consul-backup-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2024-09-17T18:00:58.299748527Z"
     description: Backup consul cluster
     digest: f6e1ff37df7403acc9e12d6d1510896b4665ec995c5f62862cdbcb83bf0ee1f7
@@ -190,4 +200,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-18T21:57:17.687579233Z"
+generated: "2025-03-21T16:58:10.5861622Z"
