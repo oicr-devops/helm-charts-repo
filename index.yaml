@@ -130,6 +130,16 @@ entries:
   s3-files-backup:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2025-09-17T20:01:54.88476831Z"
+    description: Backup dac user files
+    digest: fd2b1960c3f1632b60462d2a1d9a49515f964d3f5517f8b1da7586f59e505053
+    name: s3-files-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/s3-files-backup-0.6.2.tgz
+    version: 0.6.2
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2025-09-17T18:45:05.14436886Z"
     description: Backup dac user files
     digest: c295536c41d857a4696a3baaf87f9d368817f66c1d1ea3353efab8e36cfda9f7
@@ -240,4 +250,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.1.0.tgz
     version: 0.1.0
-generated: "2025-09-17T18:45:05.143453572Z"
+generated: "2025-09-17T20:01:54.883851403Z"
