@@ -171,6 +171,16 @@ entries:
   valkey-cluster:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2026-02-03T19:01:40.78763862Z"
+    description: A Helm chart for Kubernetes
+    digest: 1ec70c93d64738d689394c972ab99635805b179f07ffa5858a00e08fb3c7dcd3
+    name: valkey-cluster
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/valkey-cluster-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2025-01-22T16:51:30.064075924Z"
     description: A Helm chart for Kubernetes
     digest: beab368900fd826d9b9bb51e5520507ead0ccaee5974184d05392046b61fdd79
@@ -250,4 +260,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.1.0.tgz
     version: 0.1.0
-generated: "2025-09-17T20:01:54.883851403Z"
+generated: "2026-02-03T19:01:40.787097033Z"
