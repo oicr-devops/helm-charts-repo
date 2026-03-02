@@ -109,9 +109,9 @@ entries:
   psql-backup:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-03-02T21:59:48.868401923Z"
+    created: "2026-03-02T22:51:21.320242868Z"
     description: Backup psql cluster
-    digest: c4b800c7fe013f4faa793bc4358840b6ae7766870097904a2ee733fd85504329
+    digest: 102fcf076eaa7be25dfe652e172c4406030bb3fccce324a5236f6b169c0d3a4c
     name: psql-backup
     type: application
     urls:
@@ -280,4 +280,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-02T21:59:48.867521716Z"
+generated: "2026-03-02T22:51:21.318100129Z"
