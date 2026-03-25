@@ -106,6 +106,17 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/lectern-backup-0.3.0.tgz
     version: 0.3.0
+  mongo-backup:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-03-25T20:00:12.582478828Z"
+    description: Backup mongo cluster
+    digest: 301ded6afcdc5104bf7b0675dc31080cd16df623c59666680bcedb6e0477b59d
+    name: mongo-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/mongo-backup-0.1.0.tgz
+    version: 0.1.0
   psql-backup:
   - apiVersion: v2
     appVersion: 0.1.0
@@ -290,4 +301,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-02T22:56:51.621376053Z"
+generated: "2026-03-25T20:00:12.581378864Z"
