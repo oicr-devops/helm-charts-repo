@@ -109,6 +109,16 @@ entries:
   mongo-backup:
   - apiVersion: v2
     appVersion: 7.0.31
+    created: "2026-03-26T23:03:09.450956896Z"
+    description: Backup mongo cluster
+    digest: 48f24691dd8d3589866d1b6e31dc48202cf639a604a5177682cee046b36c1871
+    name: mongo-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/mongo-backup-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v2
+    appVersion: 7.0.31
     created: "2026-03-26T22:55:13.236167276Z"
     description: Backup mongo cluster
     digest: 1ab4ce9294a2016bb7dbf83863ab8d61bd3e4402e5ce33be3cd2cdba3c156388
@@ -391,4 +401,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-26T22:55:13.235109467Z"
+generated: "2026-03-26T23:03:09.449832606Z"
