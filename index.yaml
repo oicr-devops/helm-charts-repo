@@ -220,6 +220,16 @@ entries:
   psql-backup:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2026-08-25T20:58:34.690896612Z"
+    description: Backup psql cluster
+    digest: 9b6426aef8033b86923173f1c17a22dcfb67c7e470bd1864963b387dee9e19f7
+    name: psql-backup
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/psql-backup-0.3.4.tgz
+    version: 0.3.4
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2026-08-18T16:36:05.879996932Z"
     description: Backup psql cluster
     digest: b0d8ac679067628cf3a8a4613d4dbcea65c5265923479c95cfee64aff001f511
@@ -411,4 +421,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.1.0.tgz
     version: 0.1.0
-generated: "2026-08-18T16:36:05.879017834Z"
+generated: "2026-08-25T20:58:34.690002055Z"
