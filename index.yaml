@@ -373,6 +373,16 @@ entries:
   vso-resources:
   - apiVersion: v2
     appVersion: 0.1.0
+    created: "2026-09-09T21:52:28.022988782Z"
+    description: Create Vault secrets operator resources
+    digest: ef805636772e759b9109526a624238c057b2140a1ce43bc677bbd442a9b59c23
+    name: vso-resources
+    type: application
+    urls:
+    - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v2
+    appVersion: 0.1.0
     created: "2025-04-02T19:43:09.323410303Z"
     description: Create Vault secrets operator resources
     digest: 08027f36c40b2ac70a5a7210d8bf31e92fdf4cfbdcdcc4cb84a04f5b1ba42df7
@@ -421,4 +431,4 @@ entries:
     urls:
     - https://oicr-devops.github.io/helm-charts-repo/vso-resources-0.1.0.tgz
     version: 0.1.0
-generated: "2026-08-25T20:58:34.690002055Z"
+generated: "2026-09-09T21:52:28.022233195Z"
